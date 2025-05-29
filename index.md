@@ -9,3 +9,5 @@
 ##### H5 Header, following the other four headers.
 
 ###### H6 Header as the last one.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
