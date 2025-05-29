@@ -11,3 +11,7 @@
 ###### H6 Header as the last one.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+myVar = "Hola, Mundo!"
+```
